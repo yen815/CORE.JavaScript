@@ -8,5 +8,5 @@
 학습 자료는 해당 브랜치로 이동 후 확인할 수 있습니다.
 
 
-1. JavaScrirpt Core Brach [바로가기](https://www.naver.com)
-2. JavaScrirpt Dom Brach [바로가기](https://www.naver.com)
+1. JavaScrirpt Core Brach [바로가기](https://github.com/yen815/CORE.JavaScript.git)
+2. JavaScrirpt Dom Brach [바로가기](https://github.com/yen815/CORE.JavaScript.git)
