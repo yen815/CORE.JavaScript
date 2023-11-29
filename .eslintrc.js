@@ -22,5 +22,6 @@ module.exports = {
   },
   rules: {
     'no-unused-vars': 'off',
+    'no-empty': 'warn',
   },
 };
