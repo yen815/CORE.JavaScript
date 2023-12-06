@@ -18,7 +18,7 @@ let resultZ = calculateTotal(9000, -2500, 5000, 11900);
 // 함수 선언 → 화살표 함수 (표현)식
 // 일반 함수는 argument를 내장하고 있지만, 화살표 함수는 없다.
 // let calcAllMoney = (...rest) => {} : (...rest)가 매개변수 안에서 쓰이면 rest parameter
-// 밖에서 쓰이면 syntax
+// 밖에서 쓰이면 spread syntax
 
 // reduce 일반 함수 예시
 let calcAllMoney = (...args) => {
