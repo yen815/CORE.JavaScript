@@ -1,3 +1,7 @@
+function handleClick(){
+  console.log('클릭했습니다.');
+}
+
 function bindEvent(node,type,handler){
 
   if(typeof node === 'string') node = getNode(node);
